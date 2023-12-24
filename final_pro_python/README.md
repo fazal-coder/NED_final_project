@@ -1,10 +1,31 @@
 # Credit Card Churn Prediction
 
-## Introduction
+## 1. Power BI Dashboard
+
+Explore the visualizations and insights derived from the Credit Card Churn dataset using Power BI.
+
+## Dashboard Screenshots
+
+### Screen: Overview
+
+![Overview](images/final_bi_last_page-0001.jpg)
+
+![Overview](images/final_bi_last_page-0002.jpg)
+
+### How to View the Power BI Dashboard
+
+To view the complete Power BI dashboard:
+
+1. Download the PDF document [here](images/final_bi_last.pdf).
+2. Open the PDF using a compatible viewer.
+
+## 2. Python
+
+### Introduction
 
 The Credit Card Churn Prediction project aims to analyze and predict customer churn within the bank's credit card services. The dataset, sourced from [Analyttica](https://leaps.analyttica.com/home), comprises information on 10,000 customers, including demographic and financial attributes.
 
-## Dataset Overview
+### Dataset Overview
 
 The dataset includes the following columns:
 The following are the column names present in the Credit Card Churn dataset:
@@ -33,9 +54,7 @@ The following are the column names present in the Credit Card Churn dataset:
 22. `Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_1`: Naive Bayes classifier score 1
 23. `Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_2`: Naive Bayes classifier score 2
 
-
-
-## Objectives
+### Objectives
 
 The primary objectives of this project are:
 
@@ -43,7 +62,7 @@ The primary objectives of this project are:
 - Conduct Feature Exploration, Exploratory Data Analysis (EDA), and Data Preprocessing.
 - Implement machine learning algorithms (Logistic Regression, Random Forest, XG Boost) for churn prediction.
 
-## Scope of Work
+### Scope of Work
 
 The project scope covers:
 
@@ -51,11 +70,11 @@ The project scope covers:
 - Feature Exploration, EDA, and Data Preprocessing.
 - Implementation of machine learning algorithms for customer churn prediction.
 
-## Literature Review
+### Literature Review
 
 The project aligns with existing literature emphasizing the importance of predictive modeling in the banking sector. Machine learning algorithms such as Logistic Regression, Random Forest, and XG Boost have shown effectiveness in similar scenarios.
 
-## Methodology
+### Methodology
 
 The methodology involves:
 
@@ -64,28 +83,22 @@ The methodology involves:
 3. Data preprocessing for machine learning.
 4. Implementation and comparison of Logistic Regression, Random Forest, and XG Boost algorithms.
 
-## Findings
+### Findings
 
 The study's findings will uncover key features influencing customer churn and provide insights into the performance of the implemented machine learning algorithms.
 
-## Conclusions
+### Conclusions
 
 Conclusions will be drawn based on the findings, highlighting the strengths and limitations of each machine learning algorithm.
 
-## Recommendations
+### Recommendations
 
 Recommendations will guide the bank in implementing strategies for customer retention based on machine learning model conclusions.
 
-## Repository Structure
-
-- `data/`: Contains the dataset files.
-- `notebooks/`: Jupyter notebooks for analysis and modeling.
-- `src/`: Source code for data preprocessing and model implementation.
-- `reports/`: Report files generated during the analysis.
-
-## Getting Started
+### Getting Started
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/credit-card-churn-prediction.git
+   ```
