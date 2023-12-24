@@ -6,6 +6,10 @@ Explore the visualizations and insights derived from the Credit Card Churn datas
 
 ## Dashboard Screenshots
 
+## Dashboard Link
+
+Visit the [published Power BI dashboard](https://app.powerbi.com/links/q40DMSCHhS?ctid=cc9971dc-be22-40f0-9825-3f01fb8995d2&pbi_source=linkShare) to interact with the live version.
+
 ### Screen: Overview
 
 ![Overview](images/final_bi_last_page-0001.jpg)
