@@ -58,46 +58,6 @@ The following are the column names present in the Credit Card Churn dataset:
 22. `Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_1`: Naive Bayes classifier score 1
 23. `Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_2`: Naive Bayes classifier score 2
 
-### Objectives
-
-The primary objectives of this project are:
-
-- Build a predictive model for identifying customers at risk of churning.
-- Conduct Feature Exploration, Exploratory Data Analysis (EDA), and Data Preprocessing.
-- Implement machine learning algorithms (Logistic Regression, Random Forest, XG Boost) for churn prediction.
-
-### Scope of Work
-
-The project scope covers:
-
-- Comprehensive exploration of the Credit Card Churn Customer Dataset.
-- Feature Exploration, EDA, and Data Preprocessing.
-- Implementation of machine learning algorithms for customer churn prediction.
-
-### Literature Review
-
-The project aligns with existing literature emphasizing the importance of predictive modeling in the banking sector. Machine learning algorithms such as Logistic Regression, Random Forest, and XG Boost have shown effectiveness in similar scenarios.
-
-### Methodology
-
-The methodology involves:
-
-1. Exploration of dataset features.
-2. In-depth EDA with visualizations.
-3. Data preprocessing for machine learning.
-4. Implementation and comparison of Logistic Regression, Random Forest, and XG Boost algorithms.
-
-### Findings
-
-The study's findings will uncover key features influencing customer churn and provide insights into the performance of the implemented machine learning algorithms.
-
-### Conclusions
-
-Conclusions will be drawn based on the findings, highlighting the strengths and limitations of each machine learning algorithm.
-
-### Recommendations
-
-Recommendations will guide the bank in implementing strategies for customer retention based on machine learning model conclusions.
 
 ### Getting Started
 
