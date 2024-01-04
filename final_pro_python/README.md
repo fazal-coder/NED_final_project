@@ -64,5 +64,5 @@ The following are the column names present in the Credit Card Churn dataset:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/fazal-coder/NED_final_project.git]
+   git clone https://github.com/fazal-coder/NED_final_project.git
    ```
